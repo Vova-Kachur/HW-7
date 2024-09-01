@@ -1,2 +1,8 @@
-a{
-    color: 1px hsl(0, 100%, 49%);
+a[href="https://www.youtube.com/"]
+{
+    color: red
+}
+a[href="https://validator.w3.org/"]
+{
+    color: red
+}
