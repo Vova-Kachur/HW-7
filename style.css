@@ -1,13 +1,10 @@
-a link4
-{
-    color: red
+a[href="https://www.youtube.com/"]{
+    color: red;
 }
-a link5
-{
-    color: red
-}
-p
-{
-    font;24px:
 
+a[href="https://validator.w3.org/"]{
+    color: red
+}
+p{
+    font-size: 24px;
 }
